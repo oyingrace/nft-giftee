@@ -60,7 +60,7 @@ function App() {
       <SuperRare />
       <Release />
       <Signup />
-      <Like/>
+    
       <Footer />
     </div>
   );
