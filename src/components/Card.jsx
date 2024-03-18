@@ -19,7 +19,7 @@ export default function Card({ image, series, title, price, tag, time }) {
           <h4 className="card-title">{title}</h4>
           <div className="card-price">
             <img src={superEth} alt="super eth" />
-            <h4>{price} ETH</h4>
+            <h4>{price} SOL</h4>
           </div>
         </div>
 
@@ -30,7 +30,7 @@ export default function Card({ image, series, title, price, tag, time }) {
         
         <div className="card-buttons">
           <button className="card-button">Buy</button>
-          <button className="card-button">Customize</button>
+          
         </div>
         
       </div>
