@@ -40,6 +40,8 @@ export default function Navbar({ changeTheme, currentTheme }) {
           <li>
             <a href="#how">How It Works</a>
           </li>
+          
+          
         
           <li onClick={changeTheme}>
             {currentTheme === "dark" ? (
@@ -48,7 +50,9 @@ export default function Navbar({ changeTheme, currentTheme }) {
               <BsFillMoonFill className="dark" />
             )}
           </li>
+          
         </ul>
+       
       </div>
     </nav>
   );

@@ -8,14 +8,10 @@ export default function Signup() {
           <p className="sub-title"></p>
           <h1 className="title">Discover the simple steps to send a personalized NFT gift</h1>
           <p className="description">
-          <p className="sub-title">Choose Your NFT:</p> Browse our collection of unique NFT designs or upload your own artwork.
+          <p className="sub-title"></p> Browse our collection of unique NFT designs:
            Select the perfect NFT that resonates with the recipient's taste and personality.
           </p>
 
-          <p className="description">
-          <p className="sub-title">Customize Your NFT:</p> Add a personal touch by 
-          customizing the chosen NFT with heartfelt messages
-          </p>
 
           <p className="description">
           <p className="sub-title">Send Your Gift: </p>Once satisfied with your customized NFT, proceed to send it to your intended recipient.
@@ -25,7 +21,9 @@ export default function Signup() {
           <p className="sub-title">Recipient Redemption:</p>The recipient will receive a notification of their gifted NFT 
           . They can easily redeem their personalized NFT and add it to their digital collection.
           </p>
+         
         </div>
+        
         <div className="image-container">
           <div className="image">
             <img src={signup} alt="home image" />
