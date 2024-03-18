@@ -38,7 +38,7 @@ export default function Footer() {
         </div>
       </div>
       <div className="lower">
-        <span>&copy; Copyright 2024 nftgiftee</span>
+        <span>&copy; Copyright 2024 giftify</span>
         
       </div>
     </footer>
