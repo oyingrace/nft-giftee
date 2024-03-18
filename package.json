@@ -4,6 +4,8 @@
   "private": true,
   "homepage": ".",
   "dependencies": {
+    "@metaplex-foundation/js": "^0.20.1",
+    "@solana/web3.js": "^1.91.1",
     "@syncfusion/ej2-react-image-editor": "^24.2.8",
     "@testing-library/jest-dom": "^5.16.2",
     "@testing-library/react": "^12.1.2",
